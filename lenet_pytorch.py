@@ -111,7 +111,7 @@ class lenet_model:
 def main():
     mdl=lenet_model()
     mdl.get_data_mnist()
-    #mdl.train_model()
+    mdl.train_model()
     mdl.test_model()
 
 if __name__=='__main__':
