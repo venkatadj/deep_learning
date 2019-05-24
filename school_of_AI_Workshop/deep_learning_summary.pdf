@@ -1,0 +1,66 @@
+
+					                                      Deep Learning Workshop
+
+Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can be taught to accomplish the same tasks for machines.
+
+Example:
+Automatic car driving system is a good example of deep learning.
+Deep Learning has many applications like smart vision, speech recognition and natural language processing
+
+Machine Learning is a subset of AI and these are the algorithms which can learn by themselves without being externally programmed.
+
+Example:
+Amazon using machine learning to give better product choice recommendations to there costumers based on their preferences.
+Netflix uses machine learning to give better suggestions to their users of the Tv series or movie or shows that they would like to watch.
+
+Artificial Intelligence
+AI is a ability of computer program to function like a human brain
+
+Example: Robots like Sophia
+
+Deep learning exits from 1970 but it became popular in the last 5 years due to the following reasons.
+
+More availability of data and less cost of storage devices
+More computational power availability and more optimized algorithm which takes less power and utilizes less resources.
+
+Convolutional Neural Networks are a part of Deep learning which are mostly used for computer vision problem.
+
+They are Convolutional Neural networks because most of the layers in the network involves Convolution operation.
+
+The whole CNN started with a Perceptron model. Perceptron model is inspired from human neuron.
+The idea of perceptron is that it outputs 1 if the equated sum of inputs and weights are greater than or equal to threshold. It outputs 0 if the equated sum is less than threshold.
+
+Perceptron model has some limitations. 
+
+Example:
+ XOR function is not linearly sepearable so we cannot use perceptron to predict truth table of XOR. The output of perceptron is always binary.
+
+So, researchers have taught that network of perceptron model solves these issues and they came up with a architecture called multi layer perceptron architecture.
+
+Convolution operation extracts the features of the image like vertical edges, horizontal edges etc.
+Pooling Operation reduces the size of the input while preserving the important features of the image. Pooling operation does down sampling. There are two types of pooling.
+Maxpooling : Takes the max of given kernel size
+AvgPooling: Takes the average of given kernel size.
+
+Fullyconnected layer: this layer is called fully connected since each input is connected to every neuron in hidden layer.
+
+Popular frameworks in Python for deep learning include caffe, caffe2, pytorch, tenssorflow and keras.
+
+Keras is very user friendly and good for deep learning beginners
+
+How to approach a Image classification problem.
+First of all we need a dataset to train our model. We can prepare our dataset or we have some opensource datasets. Some of the pretrained datasets are Imagenet, MNIST, VisualQA etc
+
+Next we need to have a loss function and optimizer. Loss function calculates the loss of our model and optimizer optimizes this loss in such a way that our model learns its weights faster.
+
+Some loss functions: MSE, Catogorical loss entropy
+Some Optimizors: SGD, Adam
+
+Then we need a visual algorithm like LENET, Googlenet etc for prediction
+
+And last we needed test dataset to test our model.
+
+ 
+
+
+
