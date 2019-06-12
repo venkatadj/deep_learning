@@ -12,6 +12,7 @@ This repo will help you to become zero to hero in Computer Vision.
 - [Support us](#support-us)
 - [Books](#books)
 - [Online Course](#online-course)
+- [Popular Deep learning frameworks](#popular-deep-learning-frameworks)
 - [Concepts](#concepts)
 
 ## About us
