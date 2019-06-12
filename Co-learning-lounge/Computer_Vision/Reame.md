@@ -1,10 +1,8 @@
-```
-Computer Vision using Deep Learning
+#Computer Vision using Deep Learning
 ```
 Give your computer the vision you had.
 
-```
-What to expect?
+##What to expect?
 ```
 This repo will help you to become zero to hero in Computer Vision.
 
