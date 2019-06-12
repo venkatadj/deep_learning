@@ -39,3 +39,26 @@ Right now this is very much a self funded initiative. If you wish to see more an
 - [Caffe2](https://caffe2.ai/)
 
 ## Concepts
+
+- Prerequisite :
+
+  - Working knowledge of python.
+  - Basic experience with Numpy.
+
+- What is Deep Learning?
+
+Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can be taught to accomplish the same tasks for machines.
+
+Example:
+Automatic car driving system is a good example of deep learning.
+
+- Why Deep Learning?
+
+Deep Learning has many wide applications like smart vision, speech recognition and natural language processing
+
+- Why Deep Learning now?
+
+Deep learning exits from 1970 but it became popular in the last 5 years due to the following reasons.
+More availability of data and less cost of storage devices
+More computational power availability and more optimized algorithm which takes less power and utilizes less resources.
+
