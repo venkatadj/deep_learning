@@ -30,9 +30,7 @@ Right now this is very much a self funded initiative. If you wish to see more an
 - [Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 - [Computer Vision: Algorithms and Applications](http://szeliski.org/Book/)
 - [Computer Vision : A Modern Approach By David A. Forsyth, Jean Ponce](http://cmuems.com/excap/readings/forsyth-ponce-computer-vision-a-modern-approach.pdf)
-- [Multiple View Geometry in Computer Vision By Richard Hartley, Andrew Zisserman](http://books.google.com/books?hl=en&lr=&id=si3R3Pfa98QC&oi=fnd&pg=PR11&dq=computer+visioWhat Is Computer Vision?
-- Computer vision is a field of study focused on the problem of helping computers to see.
-n&ots=aQo-nw6e4Q&sig=zGRDslfuKd1ytlZWwTaTKcuLdNw)
+- [Multiple View Geometry in Computer Vision By Richard Hartley, Andrew Zisserman](http://books.google.com/books?hl=en&lr=&id=si3R3Pfa98QC&oi=fnd&pg=PR11&dq=computer+vision&ots=aQo-nw6e4Q&sig=zGRDslfuKd1ytlZWwTaTKcuLdNw)
 - [Practical Python and OpenCV + Case Studies](https://github.com/Shivanandroy/Study-Materials/blob/master/Practical%20Python%20and%20OpenCV%2C%203rd%20Edition.pdf)
 - [Computer Vision: Models, Learning, and Inference](https://web.itu.edu.tr/hulyayalcin/Signal_Processing_Books/2010_Szeliski_ComputerVision.pdf)
 - [Machine Learning For Dummies Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
