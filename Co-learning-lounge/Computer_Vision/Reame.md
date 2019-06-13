@@ -44,6 +44,9 @@ Right now this is very much a self funded initiative. If you wish to see more an
 - [Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs](https://www.udemy.com/course/computer-vision-a-z/)
 - [Deep Learning : Advanced Computer Vision](https://www.udemy.com/advanced-computer-vision/?src=sac&kw=deep%20learning%3A%20advanced)
 
+## Blogs to follows
+[Tombone's Computer Vision Blog](http://www.computervisionblog.com/)
+
 ## Popular channels for Computer vision
 - [PyImage](https://www.pyimagesearch.com/)
 - [Real Python](https://realpython.com/tutorials/computer-vision/)
