@@ -11,7 +11,8 @@ This repo will help you to become zero to hero in Computer Vision.
 - [About us](#about-us)
 - [Support us](#support-us)
 - [Books](#books)
-- [Online Course](#online-course)
+- [Online Courses](#online-course)
+- [Blogs to follow](#blogs-to-follow)
 - [Popular Channels for Computer Vision](#popular-channels-for-computer-vision)
 - [Popular AI/ML medium channel](#popular-ai/ml-medium-channel)
 - [Popular Deep learning frameworks](#popular-deep-learning-frameworks)
@@ -35,7 +36,7 @@ Right now this is very much a self funded initiative. If you wish to see more an
 - [Computer Vision: Models, Learning, and Inference](https://web.itu.edu.tr/hulyayalcin/Signal_Processing_Books/2010_Szeliski_ComputerVision.pdf)
 - [Machine Learning For Dummies Hands On Machine Learning with Scikit Learn and TensorFlow](https://github.com/yanshengjia/ml-road/blob/master/resources/Hands%20On%20Machine%20Learning%20with%20Scikit%20Learn%20and%20TensorFlow.pdf)
 
-## Online Course
+## Online Courses
 
 - [Deep Learning by NPTEL](https://nptel.ac.in/courses/106106184/)
 - [A friendly introduction to Convolutional Neural Networks and Image Recognition](https://www.youtube.com/watch?v=2-Ol7ZB0MmU)
@@ -44,7 +45,7 @@ Right now this is very much a self funded initiative. If you wish to see more an
 - [Udemy - Deep Learning and Computer Vision A-Z™ OpenCV, SSD & GANs](https://www.udemy.com/course/computer-vision-a-z/)
 - [Deep Learning : Advanced Computer Vision](https://www.udemy.com/advanced-computer-vision/?src=sac&kw=deep%20learning%3A%20advanced)
 
-## Blogs to follows
+## Blogs to follow
 [Tombone's Computer Vision Blog](http://www.computervisionblog.com/)
 
 ## Popular channels for Computer vision
