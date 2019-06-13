@@ -1,4 +1,4 @@
-# Computer Vision using Deep Learning
+# Computer Vision
 
 Give your computer the vision you had.
 
