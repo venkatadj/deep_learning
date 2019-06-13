@@ -1,6 +1,6 @@
 # Computer Vision
 
-Give your computer the vision you had.
+Give your computer the vision you have.
 
 ## What to expect?
 
@@ -76,9 +76,15 @@ Right now this is very much a self funded initiative. If you wish to see more an
 
 ![](images/computer_vision_logo.jpg)
 
+- Challenges of Computer Vision
+
+    - One reason is that we don’t have a strong grasp of how human vision works.
+    - Studying biological vision requires an understanding of the perception organs like the eyes, as well as the                 interpretation of the perception within the brain.
+    - A given object may be seen from any direction, in any lighting conditions, with any type of occlusion from other             objects, and so on. A true vision system must be able to “see” in any of an infinite number of scenes and still be           able to extract something meaningful.
+    
 - What is Deep Learning?
 
-  Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can be   taught to accomplish the same tasks for machines.
+  Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can     be taught to accomplish the same tasks for machines.
 
    Example:
    Automatic car driving system is a good example of deep learning.
