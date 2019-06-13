@@ -96,6 +96,10 @@ Right now this is very much a self funded initiative. If you wish to see more an
 - Why Deep Learning now?
 
    Deep learning exits from 1970 but it became popular in the last 5 years due to the following reasons.
-   More availability of data and less cost of storage devices
-   More computational power availability and more optimized algorithm which takes less power and utilizes less resources.
+    - More availability of Data 
+    - Cheaper storage devices
+    - More computational power availability
+    - More optimized algorithms which takes less power and utilizes less resources.
+   
+   Due to the above reasons , Deep Learning has created a boom in computer vision. 
 
