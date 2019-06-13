@@ -82,6 +82,15 @@ Right now this is very much a self funded initiative. If you wish to see more an
     - Studying biological vision requires an understanding of the perception organs like the eyes, as well as the                 interpretation of the perception within the brain.
     - A given object may be seen from any direction, in any lighting conditions, with any type of occlusion from other             objects, and so on. A true vision system must be able to “see” in any of an infinite number of scenes and still be           able to extract something meaningful.
     
+- Popular Applications
+    - Object Classification: What broad category of object is in this photograph?
+    - Object Identification: Which type of a given object is in this photograph?
+    - Object Verification: Is the object in the photograph?
+    - Object Detection: Where are the objects in the photograph?
+    - Object Landmark Detection: What are the key points for the object in the photograph?
+    - Object Segmentation: What pixels belong to the object in the image?
+    - Object Recognition: What objects are in this photograph and where are they?
+
 - What is Deep Learning?
 
   Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can     be taught to accomplish the same tasks for machines.
