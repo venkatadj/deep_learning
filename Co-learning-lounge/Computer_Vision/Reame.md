@@ -74,6 +74,8 @@ Right now this is very much a self funded initiative. If you wish to see more an
 
   Computer vision is a field of study focused on the problem of helping computers to see.
 
+![](images/computer_vision_logo.jpg)
+
 - What is Deep Learning?
 
   Just like we use our brains to identify patterns and classify various types of information, deep learning algorithms can be   taught to accomplish the same tasks for machines.
