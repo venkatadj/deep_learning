@@ -48,7 +48,7 @@ This repo will help you to become zero to hero in Computer Vision.
 - Prerequisite :
 
   - Working knowledge of python.
-  - Basic experience with Numpy.
+  - Basic experience with [Numpy](https://colab.research.google.com/github/GokuMohandas/practicalAI/blob/master/notebooks/02_NumPy.ipynb).
 
 - What Is Computer Vision?
 
